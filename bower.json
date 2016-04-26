@@ -1,0 +1,15 @@
+{
+  "name": "adfc-touren",
+  "version": "0.0.0",
+  "homepage": "anders.hamburg/adfc",
+  "authors": [
+    "Sven Anders"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "leaflet": "1.0.0-rc.1"
+  },
+  "devDependencies": {
+    "jquery": "~2.2.3"
+  }
+}
